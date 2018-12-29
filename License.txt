@@ -1,6 +1,6 @@
 SPACEDOCK.INFO hosted mod
 
-This mod is uploaded to http://spacedock.info as a primary source.  If you downloaded this mod from another source, be aware it may be out of date.  I highly recommend redownloading from spacedock as a guaranteed original file and updating any saved links/favourites/bookmarks you may have.
+This mod is uploaded to http://spacedock.info as a primary source.  If you downloaded this mod from another source, be aware it may be out of date.  I highly recommend redownloading from spacedock as a guaranteed original file and updating any saved links/favourites/bookmarks you may have.  Versions on Github are development versions, both more up to date, but also possibly untested and highly beta/alpha.
 NOTE: CKAN is basically a list of where to get mods and a tool for doing so, so it should usually collect mods from their original sources, and, although it's not guaranteed to be up to date, is usually.  It's also highly recommended for simplifying install.
 
 KSP Airlocks mod 
